@@ -1,2 +1,2 @@
-print("Good by everyone!")
-print("Goodby my friends!")
+print("Good by everyone!");
+print("Goodby my friends!");
