@@ -1,1 +1,3 @@
-print("ByBy!")KILL
+print("Goodby everyone!")
+print("Goodby my friend!")
+print("ByBy!")
